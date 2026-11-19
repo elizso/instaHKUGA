@@ -1,4 +1,3 @@
 # instaHKUGAC
-
-This is an Instagram clone but for educational use, this InstaHKGUAC is created for HKUGAC. 
+Created an "Instagram" for my high school through learning different tutorials on YouTube. Used Swift and Xcode to build the iOS App. 
 
